@@ -1,0 +1,579 @@
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.csproj.AssemblyReference.cache
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.AssemblyInfoInputs.cache
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.AssemblyInfo.cs
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.csproj.CoreCompileInputs.cache
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cs
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cache
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.sourcelink.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\appsettings.Development.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\appsettings.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\CategoriesService.staticwebassets.endpoints.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\CategoriesService.exe
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\CategoriesService.deps.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\CategoriesService.runtimeconfig.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\CategoriesService.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\CategoriesService.pdb
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\AutoMapper.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Azure.Core.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Azure.Identity.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Humanizer.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.CodeDom.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\scopedcss\bundle\CategoriesService.styles.css
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets.build.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets.development.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets\msbuild.build.CategoriesService.props
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CategoriesService.props
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CategoriesService.props
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\Categori.F9CB137D.Up2Date
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\refint\CategoriesService.dll
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.pdb
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\CategoriesService.genruntimeconfig.cache
+E:\Dự Án Tốt Nghiệp _ 2025\AdminService\AdminService\obj\Debug\net8.0\ref\CategoriesService.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\appsettings.Development.json
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\appsettings.json
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\CategoriesService.staticwebassets.endpoints.json
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\CategoriesService.exe
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\CategoriesService.deps.json
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\CategoriesService.runtimeconfig.json
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\CategoriesService.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\CategoriesService.pdb
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\AutoMapper.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Azure.Core.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Azure.Identity.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Humanizer.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.CodeDom.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Memory.Data.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.csproj.AssemblyReference.cache
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.GeneratedMSBuildEditorConfig.editorconfig
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.AssemblyInfoInputs.cache
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.AssemblyInfo.cs
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.csproj.CoreCompileInputs.cache
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cs
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cache
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.sourcelink.json
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\scopedcss\bundle\CategoriesService.styles.css
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets.build.json
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets.development.json
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.build.CategoriesService.props
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CategoriesService.props
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CategoriesService.props
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\Categori.F9CB137D.Up2Date
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.dll
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\refint\CategoriesService.dll
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.pdb
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\CategoriesService.genruntimeconfig.cache
+E:\My-Microservice-Project\Services\CategoryService\obj\Debug\net8.0\ref\CategoriesService.dll
+E:\My-Microservice-Project\Services\CategoryService\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\appsettings.Development.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\appsettings.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.staticwebassets.endpoints.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.exe
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.deps.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.runtimeconfig.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.pdb
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\AutoMapper.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Azure.Core.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Azure.Identity.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Humanizer.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.CodeDom.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Memory.Data.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.csproj.AssemblyReference.cache
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.GeneratedMSBuildEditorConfig.editorconfig
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.AssemblyInfoInputs.cache
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.AssemblyInfo.cs
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.csproj.CoreCompileInputs.cache
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cs
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cache
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.sourcelink.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\scopedcss\bundle\CategoriesService.styles.css
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.build.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.development.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.build.CategoriesService.props
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CategoriesService.props
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CategoriesService.props
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\Categori.F9CB137D.Up2Date
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\refint\CategoriesService.dll
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.pdb
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.genruntimeconfig.cache
+D:\bôn\khang\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\ref\CategoriesService.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\appsettings.Development.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\appsettings.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.staticwebassets.endpoints.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.exe
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.deps.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.runtimeconfig.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\CategoriesService.pdb
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\AutoMapper.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Azure.Core.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Azure.Identity.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Humanizer.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.CodeDom.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.csproj.AssemblyReference.cache
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.AssemblyInfoInputs.cache
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.AssemblyInfo.cs
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.csproj.CoreCompileInputs.cache
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.sourcelink.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\scopedcss\bundle\CategoriesService.styles.css
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.CategoriesService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.build.CategoriesService.props
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CategoriesService.props
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CategoriesService.props
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\Categori.F9CB137D.Up2Date
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\refint\CategoriesService.dll
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.pdb
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\CategoriesService.genruntimeconfig.cache
+D:\Github\khang\V1\DATN_2025_BackEnd\Services\CategoryService\obj\Debug\net8.0\ref\CategoriesService.dll

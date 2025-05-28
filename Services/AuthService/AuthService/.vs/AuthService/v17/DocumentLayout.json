@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\authservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:authservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|e:\\datn_2025_projectbe\\services\\authservice\\authservice\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|d:\\lamviec\\testsourcetree\\datn_2025_projectbe\\services\\authservice\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|d:\\lamviec\\testsourcetree\\datn_2025_projectbe\\services\\authservice\\authservice\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|d:\\lamviec\\testsourcetree\\datn_2025_projectbe\\services\\authservice\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92CB1D4-70E8-4FB1-8105-EA4063E0FA22}|AuthService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> origin/main
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 9,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> origin/main
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "AuthService.http",
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\AuthService.http",
+              "RelativeDocumentMoniker": "AuthService.http",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\AuthService.http",
+              "RelativeToolTip": "AuthService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-16T08:18:19.026Z",
+=======
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
+              "ToolTip": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:43:37.13Z",
+>>>>>>> origin/main
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T08:18:03.924Z",
+=======
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAnwMUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:32:24.081Z",
+>>>>>>> origin/main
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOTPService.cs",
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Services\\IOTPService.cs",
+              "RelativeDocumentMoniker": "Services\\IOTPService.cs",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Services\\IOTPService.cs",
+              "RelativeToolTip": "Services\\IOTPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:39:52.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService",
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\AuthService.csproj",
+              "RelativeDocumentMoniker": "AuthService.csproj",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\AuthService.csproj",
+              "RelativeToolTip": "AuthService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T13:08:22.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:43:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAwwMYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:32:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Program.cs",
+=======
+              "DocumentMoniker": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LamVIEC\\TestSourceTree\\DATN_2025_ProjectBE\\Services\\AuthService\\AuthService\\Program.cs",
+>>>>>>> origin/main
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:30:17.883Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

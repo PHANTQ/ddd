@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\dto\\danhmucdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:dto\\danhmucdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\models\\hinhanhdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:models\\hinhanhdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124905_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124444_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\dto\\responsecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:dto\\responsecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|d:\\github\\khang\\v1\\datn_2025_backend\\services\\categoryservice\\migrations\\20250525125541_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D87AD9-A164-4940-AAAA-D5C828031291}|CategoriesService.csproj|solutionrelative:migrations\\20250525125541_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\ImageDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ImageDto.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\ImageDto.cs",
+              "RelativeToolTip": "DTO\\ImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:01:02.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:31:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "Models\\DanhMuc.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "Models\\DanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:52:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HinhAnhDanhMuc.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Models\\HinhAnhDanhMuc.cs",
+              "RelativeDocumentMoniker": "Models\\HinhAnhDanhMuc.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Models\\HinhAnhDanhMuc.cs",
+              "RelativeToolTip": "Models\\HinhAnhDanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:48:15.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250525124444_m1.cs",
+              "DocumentMoniker": "D:\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124444_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124444_m1.cs",
+              "ToolTip": "D:\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124444_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124444_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:44:44.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T12:43:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:42:39.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Models\\SanPham.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Models\\SanPham.cs",
+              "RelativeToolTip": "Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:42:34.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseDTO.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:42:24.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAGIDAAAAAAAAAAAmwGcDAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:42:05.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminCategoriesController.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Controllers\\AdminCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminCategoriesController.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Controllers\\AdminCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\AdminCategoriesController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwIIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:44:34.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhMucDTO.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\DanhMucDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DanhMucDTO.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\DanhMucDTO.cs",
+              "RelativeToolTip": "DTO\\DanhMucDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:28:17.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250525125541_v1.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525125541_v1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250525125541_v1.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525125541_v1.cs",
+              "RelativeToolTip": "Migrations\\20250525125541_v1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:55:41.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseCategory.cs",
+              "DocumentMoniker": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\ResponseCategory.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseCategory.cs",
+              "ToolTip": "D:\\Github\\khang\\V1\\DATN_2025_BackEnd\\Services\\CategoryService\\DTO\\ResponseCategory.cs",
+              "RelativeToolTip": "DTO\\ResponseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:42:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250525124905_v1.cs",
+              "DocumentMoniker": "D:\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124905_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124905_v1.cs",
+              "ToolTip": "D:\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124905_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\b\u00F4n\\khang\\DATN_2025_BackEnd\\Services\\CategoryService\\Migrations\\20250525124905_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:49:05.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
